@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PaletteCoreAPI</name>
+    </assembly>
+    <members>
+        <member name="M:PaletteCoreAPI.Controllers.UsersController.GetUsers">
+            <summary>
+            Get All Users from database.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
